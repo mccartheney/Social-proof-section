@@ -14,11 +14,6 @@ weights : 400, 500, 700
     --White: hsl(0, 0%, 100%);
 }
 
-* {
-    margin: 0px;
-    padding: 0px;
-}
-
 body {
     background-image: url("../../images/bg-pattern-bottom-mobile.svg"),url("../../images/bg-pattern-bottom-mobile.svg");
     background-repeat: no-repeat, no-repeat;
