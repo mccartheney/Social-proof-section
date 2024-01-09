@@ -19,3 +19,20 @@ body {
     background-repeat: no-repeat, no-repeat;
     background-position: left top, right bottom;
 }
+
+main {
+    width: 80vw;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: flex flex flex;
+}
+
+.main_Description{
+    background-color: aqua;
+}
+
+.main_ratings{
+    background-color: blue;
+}
+
+.main_commentaries{background-color: blueviolet;}

@@ -1,0 +1,14 @@
+@media (min-width : 1024px) {
+    main {
+        background-color: black;
+        grid-template-columns: 50% 50%;
+        grid-template-columns: 50% 50%;
+    }
+
+    .main_commentaries {
+        display: flex;
+        width: 100%;
+        grid-row: 2 / 2;
+        grid-column: 1 / 3;
+    }
+}
