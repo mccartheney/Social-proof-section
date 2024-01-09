@@ -18,9 +18,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/desktop.jpg)
-![](./screenshot/mobile1.jpg)
-![](./screenshot/mobile2.jpg)
+![](./screenshot/desktop.png)
+![](./screenshot/mobile1.png)
+![](./screenshot/mobile2.png)
 
 
 ### Links
